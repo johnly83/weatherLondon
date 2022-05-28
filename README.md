@@ -1,5 +1,5 @@
 # openWeather
-Get a weather data when user entered city names.
+Get a weather data when users entered city names.
 
 Tools and Packages used:
 - Atom
