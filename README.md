@@ -1,5 +1,5 @@
-# weatherLondon
-Get a weather data in London
+# openWeather
+Get a weather data when user entered city names.
 
 Tools and Packages used:
 - Atom
@@ -11,9 +11,9 @@ Tools and Packages used:
 
 Reference:
 https://home.openweathermap.org/
-- To get weather data in London
+- To get weather data of the city names
 
-Get API_Key:
+Get API_Key(Authentication):
 - https://home.openweathermap.org/api_keys
 
 https://www.postman.com/
